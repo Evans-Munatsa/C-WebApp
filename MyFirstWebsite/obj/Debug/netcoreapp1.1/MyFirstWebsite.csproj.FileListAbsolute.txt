@@ -1,0 +1,10 @@
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/bin/Debug/netcoreapp1.1/MyFirstWebsite.deps.json
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/bin/Debug/netcoreapp1.1/MyFirstWebsite.runtimeconfig.json
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/bin/Debug/netcoreapp1.1/MyFirstWebsite.runtimeconfig.dev.json
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/bin/Debug/netcoreapp1.1/MyFirstWebsite.dll
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/bin/Debug/netcoreapp1.1/MyFirstWebsite.pdb
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/obj/Debug/netcoreapp1.1/MyFirstWebsite.csprojResolveAssemblyReference.cache
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/obj/Debug/netcoreapp1.1/MyFirstWebsite.csproj.CoreCompileInputs.cache
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/obj/Debug/netcoreapp1.1/MyFirstWebsite.AssemblyInfo.cs
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/obj/Debug/netcoreapp1.1/MyFirstWebsite.dll
+/Users/evansmunatsa/Desktop/tutorialWeb/MyFirstWebsite/MyFirstWebsite/obj/Debug/netcoreapp1.1/MyFirstWebsite.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{42C9B8E3-EBB1-4FE6-B526-0DDA41FD9622}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstWebsite/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MyFirstWebsite/Views/Shared/_Layout.cshtml" Line="36" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyFirstWebsite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
